@@ -13,7 +13,11 @@ Welcome to Coffee store! This project is a web-based coffee store that for servi
 - Frontend: React, Tailwind
 - Backend: Express, nodejs
 - Database: mongodb
-- ...
+
+## Contact Information
+- Email: emran.shuvo.dev@gmail.com
+- X: https://twitter.com/Shuvo0031770590
+- Linkedin: https://www.linkedin.com/in/md-emran-hossain-shuvo-0711802a4/  
 
 ## Links:
 - Client side repository link: https://github.com/Emranhossainshuvo/coffee-store-client
