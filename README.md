@@ -1,8 +1,21 @@
-# React + Vite
+## About This Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Coffee store! This project is a web-based coffee store that for serving coffee via online to the customers. Whether you're a coffee enthusiast, a casual shopper, or a developer looking to contribute, we're excited to have you on board.
 
-Currently, two official plugins are available:
+### Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add to cart functionality.
+- Authentication system.
+- Real time database
+
+### Technologies Used
+
+- Frontend: React, Tailwind
+- Backend: Express, nodejs
+- Database: mongodb
+- ...
+
+## Links:
+- Client side repository link: https://github.com/Emranhossainshuvo/coffee-store-client
+- Server side repository link: https://github.com/Emranhossainshuvo/coffee-store-server
+- Live website link: https://coffee-store-24146.web.app/
