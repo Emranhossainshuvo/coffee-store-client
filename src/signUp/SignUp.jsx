@@ -18,6 +18,7 @@ const SignUp = () => {
             const user = {email, createdAt: createdAt}
             fetch('http://localhost:5000/user', {
                 method: 'POST', 
+                
                 headers: {
                     'content-type': 'application/json'
                 }, 
