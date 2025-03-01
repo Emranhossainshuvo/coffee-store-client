@@ -10,6 +10,7 @@ const CoffeeCard = ({ coffee, coffees, setCoffees }) => {
         console.log(_id)
         // sweet alert
 
+        
         Swal.fire({
             title: 'Are you sure?',
             text: "You won't be able to revert this!",
